@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mapandlocationdemo</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="directionsApiKey">AIzaSyA3GJdtuCJLrNjCE07z_VilaLUhrxdExmQ</string>
+</resources>
